@@ -1,3 +1,5 @@
+Feito por: Wilson R. Marutti e Eduardo Augusto Ferreira.
+
 # Problema
 Uma grande empresa deseja entender o padrão de idade de seus funcionários com base em certos atributos, como sexo, escolaridade, nível do cargo e salário anual. A previsão precisa da idade dos funcionários pode auxiliar em planejamentos relacionados a programas de treinamento, benefícios e aposentadoria.
 A empresa possui um banco de dados MongoDB onde armazena informações sobre seus funcionários, incluindo os atributos de interesse mencionados.
